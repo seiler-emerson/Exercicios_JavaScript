@@ -1,14 +1,29 @@
 /*
-    Crie um programa que leia o nome de uma pessoa e diga se ela tem silva no nome
+    Faça um programa que leia uma frase pelo teclado e mostre:
+        * Quantas vezes aparece a letra "a".
+        * Em que posição ela aparece pela primeira vez.
+        * Em que posição ela aparece pela última vez.
 */
 
-let nome = "Emerson Silva Seiler"
+let frase = "Amanda ama pedro"
 
-nome = nome.toLowerCase().split(" ")
-console.log(nome)
+frase = frase.toLowerCase().split("")
 
-if (nome.indexOf("silva") >= 0) {
-    console.log(`O nome digitado contém Silva.`)
-} else {
-    console.log(`O nome digitado não contém Silva.`)
+let primeiraA = frase.indexOf("a")+1
+let a = 0
+let contador
+
+// while( a < frase.length) {
+    for(let i = 0; i < frase.length; i++) {
+        if (frase[i] === 'a') {
+            console.log(frase[i])
+            contador += 1
+        }
+    }
 }
+console.log(frase)
+
+
+
+
+console.log(`A primeira letra "a" apareceu na posição ${primeiraA}`)
