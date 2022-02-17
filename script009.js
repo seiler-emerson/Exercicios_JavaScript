@@ -1,3 +1,8 @@
+/*
+    Escreva um programa que leia um número qualquer e mostre
+    na tela a sua tabuada.
+*/
+
 let numero = 3
 
 let t1 = numero * 1

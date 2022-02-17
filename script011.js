@@ -1,3 +1,9 @@
+/*
+    Escreva um programa que leia a largura e a altura de uma parede em
+    metros, calcule sua área e a quantidade de litros de tinta necessária
+    para pintá-la, sabendo que cada litro de tinta, pinta uma área de 2m².
+*/
+
 let larguraParede = 2.5
 let alturaParede = 1.75
 

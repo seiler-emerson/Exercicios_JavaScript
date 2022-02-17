@@ -1,3 +1,8 @@
+/*
+    Escreva um programa que leia um valor em metros e o exiba
+    convertido em km, hm, dam, m, dm, cm e mm.
+*/
+
 let metros = 3
 
 let km = metros / 1000

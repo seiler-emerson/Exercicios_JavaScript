@@ -1,3 +1,8 @@
+/*
+    Escreva um programa que leia dois números e mostre a soma entre eles.
+*/
+
+
 let numero1 = 5
 let numero2 = 9
 let soma = numero1 + numero2

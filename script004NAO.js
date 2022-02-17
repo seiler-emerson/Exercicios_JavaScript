@@ -1,3 +1,8 @@
+/*
+    Escreva um programa que leia algo pelo teclado e mostre na tela o seu
+    tipo, e toas as informações possiveis sobre ela.
+*/
+
 let entrada = "Emerson123"
 
 //TIPO DE DADO

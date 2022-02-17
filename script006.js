@@ -1,3 +1,7 @@
+/*
+    Escreva um programa que leia um número e mostre o seu dobro, triplo e raiz quadrada.
+*/
+
 let entrada = 85
 
 let dobro = entrada * 2
