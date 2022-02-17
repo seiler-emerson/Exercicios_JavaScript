@@ -1,15 +1,13 @@
 /*
-    Escreva um programa que leia o comprimento de três retas e diga ao usuário
-    se elas podem ou não formar um triângulo.
+    Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento.
+    Para salários superiores a R$1250, calcule um aumento de 10%.
+    Para os inferiores ou iguais o aumento será de 15%
 */
 
-let retaA = 10
-let retaB = 10
-let retaC = 10
+let salario = 1800
 
 
-
-if (reta1 > (reta3 - reta2)) {
+if (salario <= 1250) {
     salario = salario * 1.15
     console.log(`Parabén você recebeu um aumento de 15% seu salário passa a ser de R$${salario.toFixed(2)}.`)
 } else {
