@@ -1,5 +1,6 @@
 /*
-    Faça um programa que reproduza o áudio de um arquivo mp3.
+    Um professor quer sortear a ordem de apresentação de trabalhos dos alunos.
+    Faça um programa que leia o nome  dos quatro alunos e mostre a ordem sorteada.
 */
 
 let alunos = ['Paulo', 'Ana', 'Pedro', 'Maria']
