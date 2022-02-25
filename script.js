@@ -1,6 +1,8 @@
 /*
-    Faça um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios.
-    Guarde os resultados em um array, e exiba em ordem do maior para o menor.
+    Faça um programa que receba o nome, ano de nascimento e a carteira de trabalho
+    e cadastre-os (com idade) em um array de objetos. Se por acaso a CTPS
+    for diferente de zero, o array receberá também o ano de contratação e o salário.
+    Calcule e acrescente, além da idade, com quantos anos a pessoa vai se aposentar.
 
 */
 
