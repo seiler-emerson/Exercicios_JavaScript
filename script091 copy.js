@@ -6,7 +6,7 @@
 
 let jogadores = [
     {
-        jogador: 'Jogador 01'
+        jogador: 'Jogador 001'
     },
     {
         jogador: 'Jogador 02'
